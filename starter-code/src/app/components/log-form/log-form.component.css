@@ -1,25 +1,16 @@
-
-form {
-  padding: 12px;
-}
-
-.form-control {
-  padding-bottom: 12px;
-}
-
-.form-control .form-label {
-  display: block;
-  padding-bottom: 6px;
-}
-
-.feedback {
-  display: none;
-  padding: 6px;
-  background-color: red;
+/* SEE THE GLOBAL CSS */
+p {
+  margin-top: 25px;
+  width: 30%;
+  background-color: limegreen;
+  padding: 20px;
   color: white;
+  margin: 0 auto;
+  border: 1px solid limegreen;
+  border-radius: 5px;
+  text-align: center;
 }
 
-.form-control.has-error .feedback {
-  border: 1px solid red;
-  display: block;
+ul {
+  list-style: none;
 }
